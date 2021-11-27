@@ -29,7 +29,6 @@ b=temp
 print("Swapped values are:",(a),(b))
 
 ### OUTPUT
-![swap](./SWAPPING OUT.jpeg)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
